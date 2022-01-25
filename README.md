@@ -7,3 +7,13 @@ Formatowanie dokumentów dopasowane jest do wymogów ustalonych przez władze uc
 
 ![index](https://github.com/mariuszsos/sylabus/blob/master/img/opis_index.png)
 
+![excel](https://github.com/mariuszsos/sylabus/blob/master/img/opis_excel.png)
+
+![formularz](https://github.com/mariuszsos/sylabus/blob/master/img/opis_formularz.png)
+
+# Wykorzystane narzędzia
+- PHP
+- MySQL
+- PhpSpreadSheet
+- PhpWord
+
